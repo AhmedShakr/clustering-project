@@ -1,0 +1,16 @@
+# Virtuelle Umgebung
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Daten (Profi-Tipp: Rohdaten oft lokal lassen, da zu groß)
+data/raw/*.csv
+data/processed/*.csv
+
+# IDE Einstellungen
+.vscode/
+.idea/
